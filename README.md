@@ -18,7 +18,7 @@ Es una herramienta flexible y moderna que nos permite automatizar y gestionar el
 
 Es una biblioteca de Java que se utiliza para manipula y analizar documentos HTML. Por otro lado, proporciona un conjunto de funciones fáciles de usar para buscar, extraer y modificar elementos HTML.
 
-##Ventajas en la elección de las tecnologías
+## Ventajas en la elección de las tecnologías
 
 Gradle facilita la gestión de dependencias del proyecto, lo que simplifica la incorporación de bibliotecas externas como Jsoup.
 Jsoup permite analizar la estructura de HTML de las páginas web de manera eficiente, proporcionando métodos para extraer datos de forma sencilla y precisa. 
