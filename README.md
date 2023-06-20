@@ -6,13 +6,15 @@ Este proyecto es un repositorio que contiene un Scrapper. El scrapper obtiene in
 
 ## Tecnologías usadas
 
-# Java
+- Java
 
-# Gradle
-  
+Es un lenguaje de programación ampliamente utilizado y conocido por su portabilidad, robustez y soporte comunitario. 
+
+- Gradle 
+
 Es una herramienta flexible y moderna que nos permite automatizar y gestionar el proyecto. Ofrece una forma declarativa de escpecificar las dependencias, tareas y configuraciones del proyecto.
 
-# Jsoup
+- Jsoup
 
 Es una biblioteca de Java que se utiliza para manipula y analizar documentos HTML. Por otro lado, proporciona un conjunto de funciones fáciles de usar para buscar, extraer y modificar elementos HTML.
 
