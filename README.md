@@ -20,6 +20,6 @@ Es una biblioteca de Java que se utiliza para manipula y analizar documentos HTM
 
 ## Ventajas en la elección de las tecnologías
 
-Gradle facilita la gestión de dependencias del proyecto, lo que simplifica la incorporación de bibliotecas externas como Jsoup.
-Jsoup permite analizar la estructura de HTML de las páginas web de manera eficiente, proporcionando métodos para extraer datos de forma sencilla y precisa. 
-Tanto Gradle como Jsoup tienen una gran comunidad de desarrolladores, lo que brinda soporte y recursos adicionales en caso de que se presenten problemas o se requiera ayuda.
+- Gradle facilita la gestión de dependencias del proyecto, lo que simplifica la incorporación de bibliotecas externas como Jsoup.
+- Jsoup permite analizar la estructura de HTML de las páginas web de manera eficiente, proporcionando métodos para extraer datos de forma sencilla y precisa. 
+- Tanto Gradle como Jsoup tienen una gran comunidad de desarrolladores, lo que brinda soporte y recursos adicionales en caso de que se presenten problemas o se requiera ayuda.
